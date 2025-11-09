@@ -1,0 +1,58 @@
+Hello There! Kopi here!
+
+Java Course: KodeWithKopi -> practice set of "Introduction to Java Datatypes & Variables +  Primitive"
+
+you can refer images of "classification of java datatypes" and "Java primitives Ranges" , etc.
+
+Below are 10 One Word-Sentence Quick Questions to revise your learning about primitives:
+
+Q1] Which primitive datatype would you use to store age of a person?
+Q2] Phone Numbers can be stored in which primitive?
+Q3] to check whether a bulb is on or off , which primitive is preferred?
+Q4] to solve scientific numericals with high precision, which primitive would you prefer?
+Q5] char primitive datatype is used to store ?
+Q6] long or double ? which one holds the hugest number?
+Q7] float or double? which one is more precised?
+Q8] What is the difference between float and double ? how are they different when assigning them a value?
+Q9] Are You Enjoying the Journey?
+Q10] Did you understand what we learned? and did you solved these questions?
+
+Below are few practice program problems to enhance your primitives knowledge in java:
+it is not essential as a beginner but it's recommended to try. do not worry if you couldn't solve any or\and every of them.
+we will solve it once again together in practice set solving session. try your best to figure out the solution
+Remember "you may cheat with others but you can never cheat with yourself".
+
+P1] Write a Program with Four integer Variables which stores any number. print those Four value separately using * System.out.println(""); * . 
+
+Hint: use each integer primitive.
+
+P2] Write a program that declares both double and float variables, stores the value of π (pi) up to 15 digits after the decimal point and prints it. 
+
+Hint: store and print this -> 3.141592653589793
+
+
+
+P3] Write a Program which has all eight primitives used. 
+
+so far, we’ve learned about various Java data types, but boolean might not seem very useful just yet. Still, to wrap up this section, let’s do a quick hands-on recap using all the primitive data types in one place!
+
+create a variable for each Java primitive data type, assign a legal value of your choice, and print the value. For the boolean data type, declare two variables: One to store true,One to store false.
+
+this one is optional , you may try if you wish.
+
+P4] Write/Modify the Program which prints Hindi Letters & Words.
+
+Hint: You can use wikipedia for Unicode or check the provided resources.
+
+We have seen how to store & print Hindi Letters. now just try to change '\u0905' to something else like '\u8272' or '\u1722'. Note that the Range of Unicodes for Hindi letters : U+0900 to U+097F that means you can print hindi characters by using '\u0900' to '\u097F'. Just modify/change last four digits. Unicode follows Hexadecimal Number System unlike Decimal number system which we use on daily basis HexaDecimal is 16 base and contain 0 to 9 then A -> 10 , B ->11 , C -> 12 , D -> 13 , E -> 14 , F -> 15.
+
+Try to Print the Following:
+
+1. Different Hindi Letters by changing HexaDecimal Part.
+2. Your Name in Hindi & English.
+3. A Whole Sentence in Hindi & English.
+
+in the next lecture we'll learn about Java Operators.
+if you have any queries regarding anything you can drop a comment and if possible stick timestamp.
+
+Thank You!

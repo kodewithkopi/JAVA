@@ -1,0 +1,27 @@
+
+        byte minByteValue = Byte.MIN_VALUE;
+        byte maxByteValue = Byte.MAX_VALUE;
+
+        short minShortValue = Short.MIN_VALUE;
+        short maxShortValue = Short.MAX_VALUE;
+
+        int minIntValue = Integer.MIN_VALUE;
+        int maxIntValue = Integer.MAX_VALUE;
+
+        long minLongValue = Long.MIN_VALUE ;
+        long maxLongValue = Long.MAX_VALUE ;
+
+        char minCharValue = Character.MIN_VALUE;
+        char maxCharValue = Character.MAX_VALUE;
+
+        double maxDoubleValue = Double.MAX_VALUE;
+        double minDoubleValue = Double.MIN_VALUE;
+
+        float maxFloatValue = Float.MAX_VALUE;
+        float minFloatValue = Float.MIN_VALUE;
+
+your challenge is to decode what the above java syntax/kode.
+
+All The Best!
+
+THANK YOU !
