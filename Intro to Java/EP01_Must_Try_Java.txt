@@ -1,0 +1,37 @@
+Hello There! Kopi here!
+
+Java Course: KodeWithKopi -> practice set of "Introduction to Java + Installing JDK , VS Code and Writing & Running our first java program"
+
+We recently learnt about how to create a java source file and run it and we wrote a code to print Hello World!
+since we haven't learnt a lot about java so i just couldn't bombard you guys with irritating-but-amazing programs/questions.
+it's so sad though but anyways i will still give you something to play with and i hope you guys will enjoy it.
+
+
+as we wrote this program
+
+public class Main
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World!");
+    }
+}
+
+
+try changing Hello World! to 
+1. my name is [Your name here].
+2. What is Your Favourite Game?\nCricket.
+3. Stay Away From Me\tYou.
+
+replace and run one by one 
+observe what is the difference and try to do something new by yourself own
+
+second thing i want you to do is
+replace System.out.println() --> System.out.print()
+and use three System.out.print() with write those three sentences and check what happens
+
+that's all for now 
+i hope you enjoyed the learning Journey until now and not to mention there's a lot upcoming
+until then ba-bye! take care!
+
+Thank You!
