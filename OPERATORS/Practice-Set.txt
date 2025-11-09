@@ -1,0 +1,68 @@
+Hello there! how's it going? i hope well.
+
+Well i am just giving you a small program which is a calculator and we have learnt about Arithmetic Binary Operators and that's what you'll be using in here.
+
+P1] Write a java program (make a calculator) which can take two numbers as input and perform the following tasks: 
+    1. Addition(+)
+    2. Subtractionn(-);
+    3. Multiplication (*);
+    4. Division for Quotient (/)
+    5. Division for Remainder (%)
+    6. Square of a Number 
+    7. Cube of a Number
+
+Hint: for Square of a use a*a
+      for Cube of a use a*a*a  
+
+there's one more thing that i want you to take input(number1) and (number2) from user.
+as we haven't learn about taking user input so for taking user input i am providing you a Ready-to-Bake code just copy and paste it. we'll learn about it and understand each and every part of it but for now just use it as it is.
+
+import java.io.InputStreamReader;
+import java.io.BufferedReader;
+import java.io.IOException;
+
+copy the above three statements and paste them two line above  "public class Main" program. note that it must be out of the Main class and the initial lines of program
+
+now in the main method where we have been writing our program copy and paste the below code Snippet
+
+
+        InputStreamReader isr = new InputStreamReader(System.in);
+        BufferedReader myReader = new BufferedReader(isr);
+        double number1 = 0.0d , number2 = 0.0d ;
+        try
+        {
+            System.out.print("Enter First Number: ");
+            number1 = Double.parseDouble(myReader.readLine());
+
+            System.out.print("Enter Second Number: ");
+            number2 = Double.parseDouble(myReader.readLine());
+        }
+        catch(Exception ex)
+        {
+            System.out.println("Error: "+ex.getMessage());
+        }
+
+and after this code snippet you can write your code for calculator program and number1 number2 will be taken from user when we will run program in the command line interface. now you can input/enter your choice in the realtime. don't worry we'll learn about input/output(I/O) in java soon. 
+ 
+
+P2] TAKE ANY TWO DIFFERENT chars like 'K' and 'O' , compare them using all six relational operators.
+    ==
+    != 
+    >
+    >=
+    <
+    <=
+    PRINT THE APPROPRIATE VALUE ALONGWITH THE CONDITION.
+    for e.g.,
+    boolean cond1 = 'K' > 'O' ;
+    System.out.println("'K' > 'O' is "+ cond1);
+
+ 
+P3] WRITE A PROGRAM WHICH SHOWS THE WORKING TABLE OF LOGICAL AND OPERATOR , LOGICAL OR OPERATOR AND LOGIACAL NOT OPERATOR. YOU CAN USE ESCAPE SEQUENCE LIKE \n and \t to make it look proper.
+
+
+that's all for now i hope you all will solve it and either way we'll solve it in next practice set solving session 
+
+until see ya! take care and keep learning as much as you can and wherever you can and whenever you can and from whoever you can , ba-bye!!
+
+Thankyou!

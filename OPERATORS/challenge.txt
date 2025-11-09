@@ -1,0 +1,49 @@
+CHALLENGE 01] try comparing booleans using relational operators and see what happens
+
+CHALLENGE 02] try this code in your java program.
+
+char myChar = 'K' ;
+int myInt = 89 ;
+double myDouble = 79.949328236d ;
+float myFloat = 85.82921f ;
+
+int myCharInt = (int) myChar;
+int myDoubleInt = (int) myDouble ;
+int myFloatInt = (int) myFloat ;
+
+char myIntChar = (char) myInt ;
+char myDoubleChar = (char) myDouble ;
+char myFloatChar = (char) myFloat ;
+
+float myIntFloat = (float) myInt ;
+float myDoubleFloat = (float) myDouble ;
+float myCharFloat = (float) myChar ;
+
+double myIntDouble = (double) myInt ;
+double myCharDouble = (double) myChar ;
+double myFloatDouble = (double) myFloat ;
+
+All The Best!
+
+you can use these print statements to analyze it
+
+System.out.println("int value of '"+ myChar +"'' is " + myCharInt);
+System.out.println("int value of "+ myDouble +"d is " + myDoubleInt);
+System.out.println("int value of "+myFloat +"f is "+myFloatInt);
+System.out.println("char value of "+myInt +" is '"+myIntChar+"'");
+System.out.println("char value of "+myDouble +"d is '"+myDoubleChar+"'");
+System.out.println("char value of "+myFloat+"f is '"+myFloatChar+"'");
+System.out.println("float value of " + myInt+ " is "+myIntFloat+"f");
+System.out.println("float value of " + myDouble+"d is " +myDoubleFloat+"f");
+System.out.println("float value of '" + myChar+"'' is " +myCharFloat+"f");
+System.out.println("double value of " + myInt+" is "+myIntDouble+"d");
+System.out.println("double value of '" + myChar+"'' is "+myCharDouble+"d");
+System.out.println("double value of " + myFloat+"f is "+myFloatDouble+"d");
+
+by the way, the concept used here is known as "Type Casting" and which in short, converts one datatype to it's equivalent another datatype.
+
+TRY TO DECODE HOW IT DOES ALL THAT!
+
+CHALLENGE 03] there's an image which you might find strange try to decode that as well!
+
+THANK YOU !
