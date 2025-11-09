@@ -1,0 +1,15 @@
+{
+  "Java Main Class": {
+    "prefix": "kopi",
+    "body": [
+      "public class ${TM_FILENAME_BASE}",
+	  "{",
+      "\npublic static void main(String[] args)",
+	  "\t{",
+      "\t\tSystem.out.println(\"Hello, World!\");",
+	  "\t\t$0",
+      "\t}",
+      "}"
+    ],
+  }
+}
